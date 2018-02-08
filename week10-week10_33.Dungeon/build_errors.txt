@@ -1,0 +1,6 @@
+
+BUILD FAILED
+C:\Users\Tesseract\Documents\IdeaProjects\TMCProjects\mooc-2013-OOProgrammingWithJava-PART2\week10-week10_33.Dungeon\nbproject\build-impl.xml:603: The following error occurred while executing this line:
+C:\Users\Tesseract\Documents\IdeaProjects\TMCProjects\mooc-2013-OOProgrammingWithJava-PART2\week10-week10_33.Dungeon\nbproject\build-impl.xml:245: Error running javac.exe compiler
+
+Total time: 0 seconds
