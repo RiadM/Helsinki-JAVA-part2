@@ -1,0 +1,6 @@
+
+BUILD FAILED
+C:\Users\Tesseract\Documents\IdeaProjects\TMCProjects\mooc-2013-OOProgrammingWithJava-PART2\week12-week12_49.WormGame\nbproject\build-impl.xml:923: The following error occurred while executing this line:
+C:\Users\Tesseract\Documents\IdeaProjects\TMCProjects\mooc-2013-OOProgrammingWithJava-PART2\week12-week12_49.WormGame\nbproject\build-impl.xml:263: Error running javac.exe compiler
+
+Total time: 1 second
